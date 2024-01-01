@@ -47,7 +47,3 @@ A architectural style where the data is designed first and then the application 
 * Bad, because Single point of failure
 * Bad, because Components are highly dependent on the data strucutre of the data store
 * Bad, because Changing the Data structure in the data store will lead all components to fail.
-
-## Links
-
-* https://www.mountaingoatsoftware.com/agile/user-stories#:~:text=User%20stories%20are%20part%20of,functionality%20the%20user%20story%20represents.
