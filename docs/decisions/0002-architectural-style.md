@@ -18,15 +18,6 @@ The AFS system contains lots of functionality from functional and non functional
 
 Chosen option: "Microservices", because the benefits best fit with AFS systems functional and non functional requirements
 
-### Positive Consequences
-
-* Allowing User's and Stakeholders to have a format that is easily readable
-* Allows User's and Stakeholders to more easily estimate
-
-### Negative Consequences
-
-* User Stories not in this format will be rejected
-
 ## Pros and Cons of the Options
 
 ### Microservices
